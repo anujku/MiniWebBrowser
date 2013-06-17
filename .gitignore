@@ -1,0 +1,11 @@
+.DS_Store
+.classpath
+.project
+.settings/
+.checkstyle
+.gradle/
+build/
+bin/
+target/
+logs/
+test-output/
